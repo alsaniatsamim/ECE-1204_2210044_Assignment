@@ -48,7 +48,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 | Implementation of Classes, Access Specifiers, and Data Handling in C++ | [Lab 05](https://github.com/SomyaDisha44/ECE-1204_2210044/blob/main/Lab%205/Report%205.md)
+| 01 | Error Detection and Correction in C++ Programs | [Assignment 01](https://github.com/SomyaDisha44/ECE-1204_2210044_Assignment/blob/main/Assignment/Assignment%201.md)
 
 </div>
 
