@@ -16,9 +16,7 @@ _**Heaven’s Light is Our Guide**_
   **Course Name:** Object Oriented Programming<br>
   **Course Code:** ECE 1203
 </div>
-
 <br>
-
 <div align="center">
 
 ---  
