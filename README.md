@@ -46,7 +46,7 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Lab No. | Title | Link |
+| Assignment No. | Title | Link |
 | :---: | :---: | :---: |
 | 01 | Error Detection and Correction in C++ Programs | [Assignment 01](https://github.com/SomyaDisha44/ECE-1204_2210044_Assignment/blob/main/Assignment/Assignment%201.md)
 
