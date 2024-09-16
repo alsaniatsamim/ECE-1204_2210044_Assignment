@@ -664,7 +664,7 @@ int main(){
 In the line objA.showValue();, the code attempts to call the showValue() method on an object of class A. However, showValue() is defined in class B, not A. Since class A does not have a showValue() method, this causes a compilation error.
 </div>
 
-## **Code 10 (Corrected) :**
+## **Code 11 (Corrected) :**
 ```C++
 #include<iostream>
 #include<string>
@@ -704,11 +704,59 @@ int main(){
 <img width="410" height="120" alt="Screenshot 2024-09-16 at 5 47 44 PM" src="https://github.com/user-attachments/assets/9df6c5b7-7b85-4d59-bf29-514b62d39aa4">
 </p>
 
+## **Code 12:**
+```C++
+#include<iostream>
+#include<string>
+using namespace std;
+
+class Box{
+    private:
+    double width;
+    double height;
+    public:
+    Box (double w, double h) : width(w), height(h) {}
+    friend class Display;
+};
+class Display{
+    public:
+    void showDimensions(Box& b){
+        cout << endl << "Width: " << b.width << ", Height: " <<b.height << endl;
+    }
+};
+int main(){
+    Box myBox (5.0, 3.0);
+    Display display;
+    display.showDimensions(myBox);
+    return 0;
+}
+
+int main(){
+    A objA(42);
+    B objB;
+    
+    objA.showValue(); 
+    objB.show();
+    return 0;
+}
+```
+
+## **Discussion :**
+<div align="justify">
+Initially, I made a typo: "heigth" instead of "height" in the Box class. This mismatch caused an issue in the showDimensions function. After correcting the typo, the program ran correctly and produced the expected output.
+</div>
+
+## **Output :** 
+<p align="center">
+<img width="410" height="120" alt="Screenshot 2024-09-16 at 5 50 26 PM" src="https://github.com/user-attachments/assets/ad514f36-e293-4f9c-9d72-c7f63634441b">
+</p>
+
 
 ## **Conclusion :**
 <div align="justify">
+The discussions cover common C++ errors, such as incorrect argument order, private member access violations, type mismatches, missing parentheses, scope resolution issues, and mismatches in return types and parameter types. Correcting these errors ensures proper function execution, access control, and data type usage, leading to reliable and error-free code.
+
 </div>
-<br>
 
 
 
