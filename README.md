@@ -49,6 +49,7 @@ _**Heaven’s Light is Our Guide**_
 | Assignment No. | Title | Link |
 | :---: | :---: | :---: |
 | 01 | Error Detection and Correction in C++ Programs | [Assignment 01](https://github.com/SomyaDisha44/ECE-1204_2210044_Assignment/blob/main/Assignment/Assignment%201.md)
+| 02 | Designing a Library Management System using UML | [Assignment 02](https://github.com/SomyaDisha44/ECE-1204_2210044_Assignment/blob/main/Assignment/Assignment%202.md)
 
 </div>
 
