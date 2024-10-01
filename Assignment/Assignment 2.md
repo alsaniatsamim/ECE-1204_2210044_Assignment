@@ -18,6 +18,13 @@ Design a Library Management System using UML.
 ## **UML Diagram (Hand Drawing) :**
 ![Image1](https://github.com/user-attachments/assets/a38101f7-57c4-4c5b-b678-21beeaf357cc)
 
+## **UML Sequence Diagram (Hand Drawing) :**
+![Image2](https://github.com/user-attachments/assets/39fb4f2d-edc0-4b86-a87a-8beedbd3899f)
+
+## **UML Case Diagram (Hand Drawing) :**
+![Image3](https://github.com/user-attachments/assets/715d9051-60ed-422b-9f40-542afe10dc1f)
+
+
 ## **Discussion :**
 <div align="justify">
 The UML diagram represents a library management system involving several key classes: Library Management, Books, Librarian, Member, BorrowTransaction, and Fine. The relationships between these classes reflect real-world dependencies and interactions within the library environment.<br><br>
