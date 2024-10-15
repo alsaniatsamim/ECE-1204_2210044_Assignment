@@ -50,6 +50,7 @@ _**Heaven’s Light is Our Guide**_
 | :---: | :---: | :---: |
 | 01 | Error Detection and Correction in C++ Programs | [Assignment 01](https://github.com/SomyaDisha44/ECE-1204_2210044_Assignment/blob/main/Assignment/Assignment%201.md)
 | 02 | Designing a Library Management System using UML | [Assignment 02](https://github.com/SomyaDisha44/ECE-1204_2210044_Assignment/blob/main/Assignment/Assignment%202.md)
+| 03 | Study and Implementation of Operator Overloading, Inheritance, and Virtual Functions in C++ | [Assignment 03](https://github.com/SomyaDisha44/ECE-1204_2210044_Assignment/blob/main/Assignment/Assignment%203.md)
 
 </div>
 
