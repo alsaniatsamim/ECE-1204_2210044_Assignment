@@ -34,7 +34,7 @@ _**Heaven’s Light is Our Guide**_
 
 ### **SOMYA DISHA**
 #### Roll No: 2210044
-#### Regestration No: 1098
+#### Registration No: 1098
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
 #### Rajshahi - 6204
